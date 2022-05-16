@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyDrawSQLite", "PolyDrawSQLite\PolyDrawSQLite.csproj", "{264ABAF6-2A6B-49B2-98D1-258925C9EE5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbReadSQLite", "dbReadSQLite\PicturePlotDB\dbReadSQLite.csproj", "{179F1720-DF1A-4317-9743-ABA63CAD2D1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{264ABAF6-2A6B-49B2-98D1-258925C9EE5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264ABAF6-2A6B-49B2-98D1-258925C9EE5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264ABAF6-2A6B-49B2-98D1-258925C9EE5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264ABAF6-2A6B-49B2-98D1-258925C9EE5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179F1720-DF1A-4317-9743-ABA63CAD2D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179F1720-DF1A-4317-9743-ABA63CAD2D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179F1720-DF1A-4317-9743-ABA63CAD2D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179F1720-DF1A-4317-9743-ABA63CAD2D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
